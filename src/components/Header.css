@@ -3,6 +3,7 @@
     width: 100%;
     height: 5em;
     background-color: #B2DAED;
+    border-bottom: 1.5px solid #303032;
 }
 
 .header__text{
@@ -14,4 +15,5 @@
     font-size: 3rem;
     font-weight: 300;
     margin: 0;
+    font-weight: 500;
 }
