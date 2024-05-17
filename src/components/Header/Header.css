@@ -1,7 +1,7 @@
 .header{
     box-shadow: 0 0.2em 0.375em #0000004A;
     width: 100%;
-    height: 5em;
+    height: 8em;
     background-color: #B2DAED;
     border-bottom: 1.5px solid #303032;
 }
@@ -16,4 +16,10 @@
     font-weight: 300;
     margin: 0;
     font-weight: 500;
+}
+
+@media only screen and (min-width: 1000px) {
+    .header{
+        height: 5em;
+    }
 }

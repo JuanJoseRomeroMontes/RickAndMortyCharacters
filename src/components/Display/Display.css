@@ -1,0 +1,11 @@
+.display{
+    border-radius: 15px;
+    background-color: rgba(48, 48, 50, 45%);
+    width: 90%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
